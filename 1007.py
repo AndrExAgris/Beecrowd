@@ -1,0 +1,5 @@
+A = int(input())
+B = int(input())
+C = int(input())
+D = int(input())
+print("DIFERENCA = "+str(int(A*B-C*D)))
