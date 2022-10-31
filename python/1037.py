@@ -1,11 +1,11 @@
 v = float(input())
-if 0<=v<=25:
+if 0 <= v <= 25:
     print("Intervalo [0,25]")
-elif 25<v<=50:
+elif 25 < v <= 50:
     print("Intervalo (25,50]")
-elif 50<v<=75:
+elif 50 < v <= 75:
     print("Intervalo (50,75]")
-elif 75<v<=100:
+elif 75 < v <= 100:
     print("Intervalo (75,100]")
 else:
     print("Fora de intervalo")

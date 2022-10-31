@@ -1,19 +1,19 @@
 n = int(input())
 if n == 61:
-  print("Brasilia")
+    print("Brasilia")
 elif n == 71:
-  print("Salvador")
+    print("Salvador")
 elif n == 11:
-  print("Sao Paulo")
+    print("Sao Paulo")
 elif n == 21:
-  print("Rio de Janeiro")
+    print("Rio de Janeiro")
 elif n == 32:
-  print("Juiz de Fora")
+    print("Juiz de Fora")
 elif n == 19:
-  print("Campinas")
+    print("Campinas")
 elif n == 31:
-  print("Belo Horisonte")
+    print("Belo Horisonte")
 elif n == 27:
-  print("Vitoria")
+    print("Vitoria")
 else:
-  print("DDD nao cadastrado")
+    print("DDD nao cadastrado")

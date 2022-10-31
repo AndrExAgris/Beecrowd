@@ -1,6 +1,6 @@
-while(True):   
+while True:
     try:
-        x, y = [str(i) for i in input().split()] 
+        x, y = [str(i) for i in input().split()]
         vet = []
 
         for i in range(int(x)):
@@ -8,10 +8,10 @@ while(True):
 
         a = sum(vet)
 
-        if a%3 == 0:
-            print(str(a)+" sim")
+        if a % 3 == 0:
+            print(str(a) + " sim")
         else:
-            print(str(a)+" nao")
+            print(str(a) + " nao")
 
     except EOFError:
         break

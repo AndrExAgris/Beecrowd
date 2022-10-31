@@ -1,4 +1,4 @@
-while(1):
+while 1:
     try:
         x = list(input())
         p = list(input())
@@ -6,9 +6,8 @@ while(1):
         for i in p:
             for j in x:
                 if i == j:
-                    count+=1
+                    count += 1
         print(count)
 
-
-    except(EOFError):
+    except (EOFError):
         break

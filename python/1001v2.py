@@ -1,1 +1,1 @@
-print('X =',(int(input())+(int(input()))))
+print("X =", (int(input()) + (int(input()))))

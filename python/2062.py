@@ -7,4 +7,4 @@ for i in range(n):
             v[i] = "OBI"
         if v[i][0] == "U" and v[i][1] == "R":
             v[i] = "URI"
-print(' '.join(v))
+print(" ".join(v))

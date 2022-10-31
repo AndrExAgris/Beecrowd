@@ -1,25 +1,25 @@
 m = int(input())
 if m == 1:
-  print("January")
+    print("January")
 if m == 2:
-  print("February")
+    print("February")
 if m == 3:
-  print("March")
+    print("March")
 if m == 4:
-  print("April")
+    print("April")
 if m == 5:
-  print("May")
+    print("May")
 if m == 6:
-  print("June")
+    print("June")
 if m == 7:
-  print("July")
+    print("July")
 if m == 8:
-  print("August")
+    print("August")
 if m == 9:
-  print("September")
+    print("September")
 if m == 10:
-  print("October")
+    print("October")
 if m == 11:
-  print("November")
+    print("November")
 if m == 12:
-  print("December")
+    print("December")
